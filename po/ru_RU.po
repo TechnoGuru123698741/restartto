@@ -19,7 +19,7 @@ msgstr ""
 
 #: extension.js:64
 msgid "Restart To..."
-msgstr "Перезапуск В..."
+msgstr "Перезапуск В…"
 
 #: prefs.js:13
 msgid "General"
